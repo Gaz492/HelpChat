@@ -1,0 +1,13 @@
+name: HChat
+main: com.github.gaz492.HChat.Hmain
+version: 2.0.0
+description: A help channel for users and admin's.
+authors: [Gaz492, CrashDoom]
+permissions:
+  hchat.use:
+    description: Allows you to talk in the admin chat
+  hchat.see:
+    description: Allows you to view the admin chat
+commands:
+   hchat:
+      description: HChat Help Command.
