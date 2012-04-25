@@ -1,6 +1,6 @@
 name: HChat
 main: com.github.gaz492.HChat.Hmain
-version: 2.0.0
+version: 2.0.1
 description: A help channel for users and admin's.
 authors: [Gaz492, CrashDoom]
 permissions:
