@@ -18,7 +18,6 @@ implements Listener
 	public final Logger logger = Logger.getLogger("Minecraft");
 	
     public void onEnable(){ 
-    	logger.log(Level.INFO, "[HChat]  Loading...");
     	
     	  PluginDescriptionFile pdfFile = getDescription();
 
